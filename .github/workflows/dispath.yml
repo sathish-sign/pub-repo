@@ -23,7 +23,7 @@ on:
         description: 'Environment to run tests against'
         type: environment
         default: 'dev'
-        required: true
+        required: false
 
 jobs:
   print-tag:

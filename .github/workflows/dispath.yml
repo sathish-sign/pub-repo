@@ -19,11 +19,6 @@ on:
         description: 'Test scenario tags'
         required: true
         type: string
-      environment:
-        description: 'Environment to run tests against'
-        type: environment
-        default: 'dev'
-        required: false
 
 jobs:
   print-tag:

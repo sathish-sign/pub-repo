@@ -22,6 +22,7 @@ on:
       environment:
         description: 'Environment to run tests against'
         type: environment
+        default: 'dev'
         required: true
 
 jobs:

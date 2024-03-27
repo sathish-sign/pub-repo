@@ -1,3 +1,1 @@
-# pubrepo
-
-For Learning, testing and experimenting 
+test/README.md

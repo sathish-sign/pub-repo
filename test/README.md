@@ -1,3 +1,1 @@
-# pub-repo
-
-For Learning, testing and experimenting 
+testing symlink in github

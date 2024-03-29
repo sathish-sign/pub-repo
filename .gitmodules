@@ -1,0 +1,6 @@
+[submodule "script-repo"]
+	path = script-repo
+	url = git@github.com:sathish-sign/scripts.git
+[submodule "scripts-repo"]
+	path = scripts-repo
+	url = git@github.com:sathish-sign/scripts.git
